@@ -18,7 +18,7 @@ int binarySeacrh(int A[], int N, int K)
         }
         else if (A[mid] < K)
         {
-            
+            ssss
         }
     }
 }
